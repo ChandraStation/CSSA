@@ -48,7 +48,7 @@ We deploy and maintain hardware throughout the United States with our main deplo
 - ### Validators
   - Chandra Station is a validator for multiple Cosmos networks. We use a multi sentry node configuration behind a VPN and TMKMS or Horcrux depending on the network specifications. **_All our nodes are deployed on our machines with an exception for networks that are geographically isolated to one region._**
 - ### White-label
-  - Our white label solution is extremely selective, only onboarding clients who aim to bring value to the network such as institutional investors and KOLS. Our current clients are Ovrclk, Horizon Law, Altcoin Psycho, and Four Moons Capital. These clients receive the same infrastructure as Chandra Station, hosted on similarly configured servers.
+  - Our white label solution is extremely selective, only onboarding clients who aim to bring value to the network such as institutional investors and KOLS. All clients receive the same infrastructure as Chandra Station, hosted on similarly configured servers.
 
 ## Software Development
 
